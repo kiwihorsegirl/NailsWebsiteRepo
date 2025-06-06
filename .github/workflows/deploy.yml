@@ -3,7 +3,7 @@ name: Deploy Vite Site to GitHub Pages
 on:
   push:
     branches:
-      - master  # or 'master' if your branch is called master
+      - master
 
 jobs:
   deploy:
