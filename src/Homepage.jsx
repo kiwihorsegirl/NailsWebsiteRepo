@@ -31,8 +31,7 @@ function Homepage() {
         </section>
 
         <section className="carousel-section">
-          <h2 className="gallery-heading">My Work</h2>
-          
+          <h2 className="gallery-heading">Gallery</h2>
           
           <PhotoCarousel />
         </section>

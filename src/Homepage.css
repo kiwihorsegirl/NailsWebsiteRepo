@@ -2,7 +2,7 @@
 
 .Heading {
   font-family: 'Rouge Script', cursive;
-  font-size: 100pt;
+  font-size: 8rem;
   text-align: center;
   margin-top: 3rem;
   color: #000000;
@@ -71,3 +71,13 @@
   
 }
 
+@media only screen and (max-width: 600px) {
+    .Heading {
+        font-family: 'Rouge Script', cursive;
+        font-size: 4rem;
+        text-align: center;
+        margin-top: 3rem;
+        color: #000000;
+        text-shadow: 2px 2px #f8e8f2;
+      }
+}
