@@ -14,11 +14,11 @@ function Bookings() {
           <section className="booking-info">
             <h3>How to Book</h3>
             <p>
-              To schedule an appointment, please contact me via Instagram DM 
+              To schedule an appointment, please contact me via Instagram direct messages{" "}
               <a href="https://instagram.com/vanessamercedes_nails" target="_blank" rel="noopener noreferrer">
-                @vanessamercedes_nails
-              </a>, or send an email to <a href="mailto:vanessa@nails.com">vanessa@nails.com</a>.
-            </p>
+                @vanessamercedes_nails.
+              </a>
+              </p>
             <p>Appointments are confirmed once a deposit is received.</p>
 
             <h3>Appointment Preparation</h3>
