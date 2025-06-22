@@ -17,8 +17,8 @@ function Contact() {
 
         <div className="contact-details">
           <p><strong>Email:</strong> vanessa.nails@example.com</p>
-          <p><strong>Phone:</strong> 022 222 22222</p>
-          <p><strong>Instagram:</strong> 
+          <p><strong>Phone:</strong> +64 210 807 7763</p>
+          <p><strong>Instagram:</strong>
             <a 
               href="https://instagram.com/vanessamercedes_nails" 
               target="_blank" 

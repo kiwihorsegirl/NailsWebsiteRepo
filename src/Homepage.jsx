@@ -12,7 +12,7 @@ function Homepage() {
       <Header />
 
       <main className="homepage-content">
-        <h1 className="Heading">Vanessa's Nails</h1>
+        <h1 className="Heading">Vanessa Mercedes Nails</h1>
 
         <section className="intro">
           <img src={vanessaImg} className="headshotImg" alt="Vanessa" />
